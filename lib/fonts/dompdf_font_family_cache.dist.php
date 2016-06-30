@@ -1,4 +1,6 @@
-<?php return array(
+<?php
+$distFontDir = $rootDir . DIRECTORY_SEPARATOR . 'lib' . DIRECTORY_SEPARATOR . 'fonts' . DIRECTORY_SEPARATOR;
+return array(
     'sans-serif' =>
         array(
             'normal' => $distFontDir . 'Helvetica',
@@ -115,4 +117,5 @@
             'bold_italic' => DOMPDF_FONT_DIR . '95d7a5ff570ec73df2444045187c53de',
             'italic' => DOMPDF_FONT_DIR . '3249779a6057615ea5d180667659a1fc'
         )
-) ?>
+)
+?>
