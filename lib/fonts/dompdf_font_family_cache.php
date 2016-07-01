@@ -69,10 +69,10 @@
     'normal' => $fontDir . '/DejaVuSans-ExtraLight',
   ),
   'dejavu sans condensed' => array(
-    'bold' => $fontDir . '/DejaVuSansCondensed-Bold',
-    'bold_italic' => $fontDir . '/DejaVuSansCondensed-BoldOblique',
-    'italic' => $fontDir . '/DejaVuSansCondensed-Oblique',
     'normal' => $fontDir . '/DejaVuSansCondensed',
+    'bold' => $fontDir . '/DejaVuSansCondensed-Bold',
+    'italic' => $fontDir . '/DejaVuSansCondensed-Oblique',
+    'bold_italic' => $fontDir . '/DejaVuSansCondensed-BoldOblique',
   ),
   'dejavu sans mono' => array(
     'bold' => $fontDir . '/DejaVuSansMono-Bold',
